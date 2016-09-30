@@ -1,0 +1,5 @@
+In this repository I'm uploading different solutions for the games proposed on https://www.codingame.com
+
+This solutions need to pass different test and need the Codingame environment to work, so it won't work by it's own. The easiest way to test it it's using CodingGame, and going to the different games, paste my solution and run different tests.
+
+For any question please contact me: dgoldaraz@gmail.com
